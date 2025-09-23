@@ -1,4 +1,7 @@
 fastapi[standard]
+uvicorn[standard]
 pymongo
 python-dotenv
 python-multipart
+cloudinary
+bcrypt
